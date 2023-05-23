@@ -1,0 +1,89 @@
+{
+    "Header.Item1": "About me",
+    "Header.Item2": "Experience",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "Resume.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "Highly experienced software developer with <span class='underline'>3 years of experience</span> in developing and delivering software solutions using <span class='underline'>Typescript, Java, Python, Spring, Quarkus, gRPC</span>. Proficient in Angular for front-end development and implementing OIDC integrations with Keycloak. Skilled in <span class='underline'>Agile/SCRUM methodologies</span>. Technical skills include HTML, SCSS, Maven, Git, and IDEs such as IntelliJ, Eclipse, and Visual Studio Code. Experienced in <span class='underline'>Databricks pyspark, Azure DevOps, CI/CD pipelines</span>. Excellent critical thinking, ability to work in a fast-paced environment, and a collaborative team player with strong communication skills. Proven track record of delivering high-quality software solutions.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>unit tests</span>, <span class='underline'>performing continuous integration</span>, and covering backend developer roles with <span class='underline'>Quarkus, Spring, MongoDB and Postgres</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on include (but are not limited to):"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Zifo",
+            "Title": "Senior Programmer Analyst",
+            "Date": "August 2020 - Present",
+            "Description": [
+                "Developed and maintained a web-based application using Angular, Quarkus, and Postgres, resulting in improved user experience and increased performance.",
+                "Designed and implemented RESTful APIs to support multiple applications, using Java 17  and Quarkus .",
+                "Contributed in building user interfaces for a web app that focuses on instrument integrations, increasing communication and collaboration among team members.",
+                "Implementation of continuous integration and continuous deployment for Databricks notebooks using Azure Devops Pipelines",
+                "Leading a team of 4 people in the development of a Instrument Integrations  platform made in Angular, Quarkus, and Postgres.",
+                "Planning meetings and  reports."
+            ]
+        },
+        {
+            "Tab": "Spatez",
+            "Title": "Intern",
+            "Date": " July 2019 - August 2019",
+            "Description": [
+                "Worked on Embedded System, IoT operations and integrated different components writing programs in c",
+                "Planning and team work coordinating and completing work on time"
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I was a part of",
+    "FeatureProjects.Label": "Web based product",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Instruments Integration",
+            "Description": "Provides solution for data integrity challenges of Life Sciences laboratories, <span class='underline'>configurable roles</span> , <span class='underline'>permissions</span>, and <span class='underline'>user management</span>. Able to configure workflows based on different bussness needs in the system",
+            "imgs": [
+                "assets/images/instruments-integration2.jpg",
+                "assets/images/instruments-integration.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "Quarkus",
+                "PrimeNg",
+                "Keycloak",
+                "Java"
+            ]
+        }
+    ],
+    "OtherProjects.Title": "More personal projects",
+    "OtherProjects.Projects": [
+        {
+            "Title": "Warp",
+            "Description": "Warp is an ongoing angular project I am working on to explore on how user authentication can be made secure and reliable ",
+            "ghLink": "https://github.com/athulks1998/Warp",
+            "demoLink": "",
+            "Technologies": [
+                "Angular",
+                "Quarkus",
+                "Java",
+                "Typescript"
+            ]
+        },
+        {
+            "Title": "Java Features",
+            "Description": "This is a small work done on exploring some coolest features in Java that was introduced from version 9 to version 17 . Stay tuned for more updates on this  ",
+            "ghLink": "https://github.com/athulks1998/JavaFeatures/tree/main/Java8%2B/src/main",
+            "demoLink": "",
+            "Technologies": [
+                "Java 9 - 17"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
