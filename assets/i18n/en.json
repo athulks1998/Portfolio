@@ -1,0 +1,143 @@
+{
+  "Header.Item1": "About me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "Resume.pdf",
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "Senior Java Developer with <span class='underline'>5+ years of experience</span> building scalable microservices and enterprise applications using <span class='underline'>Java (8–20), Spring Boot, Quarkus, gRPC</span>. Experienced in <span class='underline'>Azure Cloud, Databricks, Spark, ADF</span> and implementing secure architectures with <span class='underline'>Keycloak (OIDC)</span>. Skilled in <span class='underline'>CI/CD automation</span> using Azure DevOps and GitHub Actions. Proven ability to modernize scientific workflows, lead agile teams, and deliver high‑quality solutions in life sciences and product engineering domains.",
+  "Banner.ActionBtn": "Get in touch",
+
+  "AboutMe.Title": "About me",
+  "AboutMe.Paragraphs": [
+    "With <span class='underline'>5+ years of hands-on experience</span> in backend engineering, I specialize in building scalable, cloud-native systems using <span class='underline'>Java, Spring Boot, Quarkus, PostgreSQL, and MongoDB</span>. I enjoy solving complex engineering problems, improving system performance, and designing architectures that scale.",
+    "I’ve worked across life sciences, data engineering, and product development—leading teams, conducting client workshops, and translating business needs into robust technical solutions.",
+    "My expertise spans microservices, CI/CD automation, cloud deployments, and integrating modern data platforms like <span class='underline'>Databricks and Azure Data Factory</span>."
+  ],
+
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "Zifo",
+      "Title": "Senior Consultant",
+      "Date": "September 2025 - Present",
+      "Description": [
+        "Modernized pharmaceutical quality control systems by designing scalable digital solutions.",
+        "Integrated Java-based platforms with AI models to improve data accuracy and automate testing workflows.",
+        "Led client workshops to identify pain points, define technical strategies, and deliver actionable solutions.",
+        "Architected cloud-native components deployed on Azure, ensuring compliance and high availability."
+      ]
+    },
+    {
+      "Tab": "Zifo",
+      "Title": "Tech Solutions Specialist",
+      "Date": "April 2025 - September 2025",
+      "Description": [
+        "Designed and implemented technology-driven solutions to streamline scientific workflows.",
+        "Built scalable web platforms, optimized lab informatics, and managed large-scale data migrations.",
+        "Integrated generative AI components into scientific data pipelines."
+      ]
+    },
+    {
+      "Tab": "Zifo",
+      "Title": "Senior Programmer Analyst",
+      "Date": "April 2023 - March 2025",
+      "Description": [
+        "Led development of a lab informatics product using Java, Angular, and microservices.",
+        "Designed CI/CD pipelines for Databricks and ADF using Azure DevOps, reducing deployment time by 40%.",
+        "Managed a team of 4 developers, conducted code reviews, and maintained high coding standards.",
+        "Implemented continuous deployment strategies using Linux-based self-hosted agents."
+      ]
+    },
+    {
+      "Tab": "Zifo",
+      "Title": "Programmer Analyst",
+      "Date": "December 2021 - March 2023",
+      "Description": [
+        "Built secure systems using Keycloak OIDC integrations.",
+        "Developed scalable system architectures for high-availability applications.",
+        "Implemented backend and frontend features for lab automation products using Java, Quarkus, and Angular.",
+        "Wrote test-driven code using JUnit and Mockito."
+      ]
+    },
+    {
+      "Tab": "Zifo",
+      "Title": "Associate Analyst",
+      "Date": "August 2020 - November 2021",
+      "Description": [
+        "Designed and maintained RESTful APIs using Java and Quarkus.",
+        "Collaborated across teams using gRPC and Keycloak for secure integrations.",
+        "Contributed to backend development for scientific and lab automation platforms."
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Projects that I was a part of",
+  "FeatureProjects.Label": "Software Engineering",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Instruments Integration Platform",
+      "Description": "A configurable platform addressing data integrity challenges in life sciences laboratories. Includes <span class='underline'>role-based access</span>, <span class='underline'>permissions</span>, <span class='underline'>workflow configuration</span>, and secure <span class='underline'>user management</span>. Designed for high availability and seamless instrument connectivity.",
+      "imgs": [
+        "assets/images/instruments-integration2.jpg",
+        "assets/images/instruments-integration.png"
+      ],
+      "Technologies": [
+        "Angular",
+        "Quarkus",
+        "PrimeNG",
+        "Keycloak",
+        "Java"
+      ]
+    },
+    {
+      "Title": "Data Engineering & Automation",
+      "Description": "Built <span class='underline'>ETL pipelines</span>, <span class='underline'>data curation workflows</span>, and <span class='underline'>CI/CD automation</span> for Databricks and ADF. Enabled end-to-end data transformation and automated deployments using Azure DevOps.",
+      "imgs": [
+        "assets/images/azure.png",
+        "assets/images/databricks.png",
+        "assets/images/datafactory.png",
+        "assets/images/devOps.png"
+      ],
+      "Technologies": [
+        "PySpark",
+        "Azure Data Factory",
+        "Azure",
+        "Azure Databricks",
+        "Python"
+      ]
+    }
+  ],
+
+  "OtherProjects.Title": "More personal projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Alphateq",
+      "Description": "An Angular + Quarkus project exploring secure and reliable user authentication patterns using Keycloak.",
+      "ghLink": "https://github.com/athulks1998/Alpha",
+      "demoLink": "https://alphateq.azurewebsites.net/",
+      "Technologies": [
+        "Angular",
+        "Quarkus",
+        "Java",
+        "Typescript"
+      ]
+    },
+    {
+      "Title": "Java Features Exploration",
+      "Description": "A personal project exploring modern Java features introduced from Java 9 to Java 20, including modules, records, sealed classes, and virtual threads.",
+      "ghLink": "https://github.com/athulks1998/JavaFeatures/tree/main/Java8%2B/src/main",
+      "demoLink": "",
+      "Technologies": [
+        "Java 9 - 20"
+      ]
+    }
+  ],
+
+  "Contact.Pretitle": "What’s Next",
+  "Contact.Title": "Get in touch!",
+  "Contact.Content": "Feel free to reach out if you'd like to discuss new opportunities or collaborate on impactful engineering projects. I’ll get back to you as soon as I see your message.",
+  "Contact.Btn": "Say Hello"
+}
